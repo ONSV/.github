@@ -23,4 +23,4 @@ O [Estudo Naturalístico de Direção Brasileiro (NDS-BR)](http://www.tecnologia
 ## Trabalhos Técnicos e Acadêmicos
 
 - [**onsv_diagmunicipios**](https://github.com/ONSV/onsv_diagmunicipios/): Diagnóstico da segurança viária nos municípios brasileiros, apresentado no livro "O Plano Nacional de Redução de Mortes e Feridos: O Papel dos Municípios". Autoria de [pabsantos](github.com/pabsantos).
-- [**https://github.com/ONSV/meta_reducao**](https://github.com/ONSV/meta_reducao): Calcula as metas de redução de mortes no trânsito dos municípios brasileiros, apresentado no livro "O Plano Nacional de Redução de Mortes e Feridos: O Papel dos Municípios". Autoria de [pabsantos](github.com/pabsantos).
+- [**meta_reducao**](https://github.com/ONSV/meta_reducao): Calcula as metas de redução de mortes no trânsito dos municípios brasileiros, apresentado no livro "O Plano Nacional de Redução de Mortes e Feridos: O Papel dos Municípios". Autoria de [pabsantos](github.com/pabsantos).
