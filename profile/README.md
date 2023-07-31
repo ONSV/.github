@@ -24,3 +24,8 @@ O [Estudo Naturalístico de Direção Brasileiro (NDS-BR)](http://www.tecnologia
 
 - [**onsv_diagmunicipios**](https://github.com/ONSV/onsv_diagmunicipios/): Diagnóstico da segurança viária nos municípios brasileiros, apresentado no livro ["O Plano Nacional de Redução de Mortes e Feridos: O Papel dos Municípios"](https://www.onsv.org.br/estudos-pesquisas/livro-pnatrans-o-papel-dos-municipios) e no artigo ["Estabelecimento de metas de redução de mortes no trânsito nos municípios brasileiros"](https://www.revistatransportes.org.br/anpet/article/view/2704). Autoria de [pabsantos](github.com/pabsantos).
 - [**meta_reducao**](https://github.com/ONSV/meta_reducao): Calcula as metas de redução de mortes no trânsito dos municípios brasileiros, apresentado no livro ["O Plano Nacional de Redução de Mortes e Feridos: O Papel dos Municípios"](https://www.onsv.org.br/estudos-pesquisas/livro-pnatrans-o-papel-dos-municipios) e no artigo ["Estabelecimento de metas de redução de mortes no trânsito nos municípios brasileiros"](https://www.revistatransportes.org.br/anpet/article/view/2704). Autoria de [pabsantos](github.com/pabsantos).
+- [**analise_renaest**](https://github.com/ONSV/analise_renaest): Análise da disponibilidade de dados presentes no RENAEST. Métodos aplicados no relatório de pesquisa "Análise da complitude dos dados do RENAEST", ainda em desenvolvimento. Autoria de [marcoaguibor](https://github.com/marcoaguibor/)
+
+## Ferramentas
+
+- [**obsplot**](https://github.com/pabsantos/obsplot): Pacote do R para carregar o tema do Observatório em gráficos do `ggplot2`. Autoria de [pabsantos](github.com/pabsantos)
