@@ -29,4 +29,4 @@ O [Estudo Naturalístico de Direção Brasileiro (NDS-BR)](http://www.tecnologia
 
 ## Ferramentas
 
-- [**obsplot**](https://github.com/pabsantos/obsplot): Pacote do R para carregar o tema do Observatório em gráficos do `ggplot2`. Autoria de [pabsantos](github.com/pabsantos)
+- [**onsvplot**](https://github.com/pabsantos/onsvplot): Pacote do R para carregar o tema do Observatório em gráficos do `ggplot2`. Autoria de [pabsantos](github.com/pabsantos)
