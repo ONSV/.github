@@ -30,6 +30,6 @@ O [Estudo Naturalístico de Direção Brasileiro (NDS-BR)](http://www.tecnologia
 
 |   |   |
 |---|---|
-| <img src="https://raw.githubusercontent.com/pabsantos/onsvplot/main/man/figures/logo.png" align="center" height="120"/> | [**onsvplot**](https://github.com/pabsantos/onsvplot): Carrega o tema do Observatório em gráficos do `ggplot2`. Autoria de [pabsantos](github.com/pabsantos) |
-| <img src="https://raw.githubusercontent.com/pabsantos/ndsbr/main/man/figures/README-ndsbr.png" align="center" height="120"/> | [**ndsbr**](https://github.com/ONSV/ndsbr): Pacote para carregar, processar e analisar os dados do NDS-BR. Autoria de [pabsantos](github.com/pabsantos) |
+| <img src="https://raw.githubusercontent.com/pabsantos/onsvplot/main/man/figures/logo.png" align="center" height="120"/> | [**onsvplot**](https://github.com/pabsantos/onsvplot): Carrega o tema do Observatório em gráficos do `ggplot2`. |
+| <img src="https://raw.githubusercontent.com/pabsantos/ndsbr/main/man/figures/README-ndsbr.png" align="center" height="120"/> | [**ndsbr**](https://github.com/ONSV/ndsbr): Pacote para carregar, processar e analisar os dados do NDS-BR. |
 
