@@ -9,7 +9,6 @@ O [Estudo Naturalístico de Direção Brasileiro (NDS-BR)](http://www.tecnologia
 - [**gps2csv**](https://github.com/ONSV/gps2csv): Conversor dos dados de gps para `.csv`. Autoria de [djeni98](https://github.com/djeni98) e [jacksonrossi](https://github.com/jacksonrossi).
 - [**dist_app**](https://github.com/ONSV/dist_app): Calcula a distância entre pontos dos dados naturalísticos. Autoria de [pabsantos](github.com/pabsantos).
 - [**be_speeding**](https://github.com/ONSV/be_speeding): Métodos aplicados na dissertação "The Impact of Built Environment on Speeding Behavior in Curitiba - Brazil". Autoria de [pabsantos](github.com/pabsantos).
-- [**ndsbr**](https://github.com/ONSV/ndsbr): Pacote do R para carregar, processar e analisar os dados do NDS-BR. Autoria de [pabsantos](github.com/pabsantos).
 - [**streamlit**](https://github.com/ONSV/streamlit): Dashboard dos dados naturalísticos, desenvolvido com a biblioteca Streamlit. Autoria de [LeonardooBecker](https://github.com/LeonardooBecker/).
 - [**IcTransporte**](https://github.com/ONSV/icTransporte): Repositório que contém os softwares desenvolvidos para conversão de dados adquiridos pelas câmeras 70mai A800, e adequação das planilhas para apresentação no site Painel NDS BR. Autoria de [LeonardooBecker](https://github.com/LeonardooBecker/)
 
@@ -27,6 +26,10 @@ O [Estudo Naturalístico de Direção Brasileiro (NDS-BR)](http://www.tecnologia
 - [**meta_reducao**](https://github.com/ONSV/meta_reducao): Calcula as metas de redução de mortes no trânsito dos municípios brasileiros, apresentado no livro ["O Plano Nacional de Redução de Mortes e Feridos: O Papel dos Municípios"](https://www.onsv.org.br/estudos-pesquisas/livro-pnatrans-o-papel-dos-municipios) e no artigo ["Estabelecimento de metas de redução de mortes no trânsito nos municípios brasileiros"](https://www.revistatransportes.org.br/anpet/article/view/2704). Autoria de [pabsantos](github.com/pabsantos).
 - [**analise_renaest**](https://github.com/ONSV/analise_renaest): Análise da disponibilidade de dados presentes no RENAEST. Métodos aplicados no relatório de pesquisa "Análise da complitude dos dados do RENAEST", ainda em desenvolvimento. Autoria de [marcoaguibor](https://github.com/marcoaguibor/)
 
-## Ferramentas
+## Pacotes do R
 
-- [**onsvplot**](https://github.com/pabsantos/onsvplot): Pacote do R para carregar o tema do Observatório em gráficos do `ggplot2`. Autoria de [pabsantos](github.com/pabsantos)
+|   |   |
+|---|---|
+| <img src="https://raw.githubusercontent.com/pabsantos/onsvplot/main/man/figures/logo.png" align="center" height="120"/> | [**onsvplot**](https://github.com/pabsantos/onsvplot): Carrega o tema do Observatório em gráficos do `ggplot2`. Autoria de [pabsantos](github.com/pabsantos) |
+| <img src="https://raw.githubusercontent.com/pabsantos/ndsbr/main/man/figures/README-ndsbr.png" align="center" height="120"/> | [**ndsbr**](https://github.com/ONSV/ndsbr): Pacote para carregar, processar e analisar os dados do NDS-BR. Autoria de [pabsantos](github.com/pabsantos) |
+
