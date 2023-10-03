@@ -27,6 +27,9 @@ O [Estudo Naturalístico de Direção Brasileiro (NDS-BR)](http://www.tecnologia
 - [**analise_renaest**](https://github.com/ONSV/analise_renaest): Análise da disponibilidade de dados presentes no RENAEST. Métodos aplicados no relatório de pesquisa "Análise da complitude dos dados do RENAEST", ainda em desenvolvimento. Autoria de [marcoaguibor](https://github.com/marcoaguibor/)
 - [**Modelo Preditivo de Mortes no Trânsito**](https://onsv.github.io/modelo_preditivo_onsv/report/05_paper.html): Modelo baseado em regressão linear multivariada para a previsão de mortes no trânsito. Autoria de [jotasaraiva](https://github.com/jotasaraiva)
 
+## Ferramentas
+- [**onsvpub**](https://github.com/ONSV/onsvpub): Template do quarto markdown para documentos em html, com a identidade visual e padrões do Observatório.
+
 ## Pacotes do R
 
 |   |   |
