@@ -28,12 +28,13 @@ O [Estudo Naturalístico de Direção Brasileiro (NDS-BR)](http://www.tecnologia
 - [**Modelo Preditivo de Mortes no Trânsito**](https://onsv.github.io/modelo_preditivo_onsv/report/05_paper.html): Modelo baseado em regressão linear multivariada para a previsão de mortes no trânsito. Autoria de [jotasaraiva](https://github.com/jotasaraiva)
 
 ## Ferramentas
-- [**onsvpub**](https://github.com/ONSV/onsvpub): Template do [quarto markdown](https://quarto.org/) para documentos em html, com a identidade visual e padrões do Observatório.
+- [**onsvpub**](https://github.com/ONSV/onsvpub): Template do [quarto markdown](https://quarto.org/) para documentos em html, pdf e docx, com a identidade visual e padrões de formatação do Observatório.
 
 ## Pacotes do R
 
 |   |   |
 |---|---|
-| <img src="https://raw.githubusercontent.com/pabsantos/onsvplot/main/man/figures/logo.png" align="center" height="120"/> | [**onsvplot**](https://github.com/pabsantos/onsvplot): Carrega o tema do Observatório em gráficos do `ggplot2`. |
+| <img src="https://raw.githubusercontent.com/pabsantos/onsvplot/main/man/figures/logo.png" align="center" height="120"/> | [**onsvplot**](https://pabsantos.github.io/onsvplot/): Carrega o tema do Observatório em gráficos do `ggplot2`. |
 | <img src="https://raw.githubusercontent.com/pabsantos/ndsbr/main/man/figures/README-ndsbr.png" align="center" height="120"/> | [**ndsbr**](https://github.com/ONSV/ndsbr): Pacote para carregar, processar e analisar os dados do NDS-BR. |
+| <img src="https://raw.githubusercontent.com/pabsantos/roadtrafficdeaths/main/man/figures/logo.png" align="center" height="120"/> | [**roadtrafficdeaths**](https://pabsantos.github.io/roadtrafficdeaths/): Carrega os dados de mortes ocorridas em sinistros de trânsito no Brasil. |
 
