@@ -25,18 +25,18 @@ O [Estudo Naturalístico de Direção Brasileiro (NDS-BR)](http://www.tecnologia
 
 ## Publicações
 
-### O Plano Nacional de Redução de Mortes e Lesões no Trânsito: O Papel dos Municípios <img src="Screenshot from 2023-11-20 17-12-22.png" align="right" height="300"/>
+### O Plano Nacional de Redução de Mortes e Lesões no Trânsito: O Papel dos Municípios <img src="https://raw.githubusercontent.com/ONSV/.github/main/profile/Screenshot%20from%202023-11-20%2017-12-22.png" align="right" height="300"/>
 
 O livro tem como principal ponto de discussão o desafio da apropriação do conteúdo do PNATRANS por parte dos municípios brasileiros, principalmente no sentido da mobilização prática necessária para a transformação efetiva do cenário atual. [Link de acesso ao material](https://www.onsv.org.br/estudos-pesquisas/livro-pnatrans-o-papel-dos-municipios).
 
 **Repositórios:**
 
 - [**onsv_diagmunicipios**](https://github.com/ONSV/onsv_diagmunicipios/): Diagnóstico da segurança viária nos municípios brasileiros, utilizado no livro e no artigo ["Estabelecimento de metas de redução de mortes no trânsito nos municípios brasileiros"](https://www.revistatransportes.org.br/anpet/article/view/2704).
-- [**meta_reducao**](https://github.com/ONSV/meta_reducao): Calcula as metas de redução de mortes no trânsito dos municípios brasileiros, apresentado no livro e no artigo ["Estabelecimento de metas de redução de mortes no trânsito nos municípios brasileiros"](https://www.revistatransportes.org.br/anpet/article/view/2704).
+- [**meta_reducao**](https://github.com/ONSV/meta_reducao): Calcula as metas de redução de mortes no trânsito dos municípios brasileiros, utilizadas no livro e no artigo ["Estabelecimento de metas de redução de mortes no trânsito nos municípios brasileiros"](https://www.revistatransportes.org.br/anpet/article/view/2704).
 
 ### <img src="https://raw.githubusercontent.com/ONSV/rt-taxa-bilhao/main/fig/capa.png" align="left" height="300"/> Taxa de Mortes por Bilhão de Quilômetros Percorridos
 
-O objetivo do estudo é apresentar a estimativa da taxa de mortes por quilômetro percorrido pela frota de veículos rodoviários no Brasil e em cada unidade da federação durante a 1ª Década Mundial de Ação pela Segurança Viária (2011-2020), assim, trazendo um diagnóstico atualizado e mais preciso acerca da evolução do desempenho da segurança viária no país. [Link de acesso](https://www.onsv.org.br/estudos-pesquisas/estudo-taxa-de-mortes-por-bilhao-de-quilometros-percorridos).
+O objetivo do estudo é apresentar a estimativa da taxa de mortes por quilômetro percorrido pela frota de veículos rodoviários no Brasil e em cada unidade da federação durante a 1ª Década Mundial de Ação pela Segurança Viária (2011-2020), assim, trazendo um diagnóstico atualizado e mais preciso acerca da evolução do desempenho da segurança viária no país. [Link de acesso ao material](https://www.onsv.org.br/estudos-pesquisas/estudo-taxa-de-mortes-por-bilhao-de-quilometros-percorridos).
 
 **Repositório:** [**rt-taxa-bilhao**](https://github.com/ONSV/rt-taxa-bilhao)
 
@@ -70,5 +70,6 @@ O objetivo do estudo é apresentar a estimativa da taxa de mortes por quilômetr
 ## Outras ferramentas
 
 | Repositório | Descrição |
+| --- | --- |
 | [**onsvpub**](https://github.com/ONSV/onsvpub) | Template do [quarto markdown](https://quarto.org/) para documentos em html, pdf e docx, com a identidade visual e padrões de formatação do Observatório |
 
