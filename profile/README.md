@@ -45,6 +45,17 @@ O objetivo do estudo é apresentar a estimativa da taxa de mortes por quilômetr
 </br>
 </br>
 
+### Análise da completude dos dados do Registro Nacional de Acidentes e Estatísticas de Trânsito (RENAEST) <img src="https://raw.githubusercontent.com/ONSV/analise_renaest/main/report/Capa.png" align="right" height="300"/>
+
+O objetivo do trabalho é apresentar uma análise preliminar dos dados disponibilizados no RENAEST, levando em consideração a completude dos registros e as limitações das análises decorrentes. [Link de acesso ao material](https://www.onsv.org.br/estudos-pesquisas/estudo-renaest)
+
+**Repositório:** [**analise_renaest**](https://github.com/ONSV/analise_renaest)
+
+</br>
+</br>
+</br>
+</br>
+</br>
 
 ### Outras publicações
 
@@ -52,7 +63,6 @@ O objetivo do estudo é apresentar a estimativa da taxa de mortes por quilômetr
 | --- | --- | --- |
 | [**analise-datasus-2021**](https://github.com/ONSV/analise-datasus-2021) | Análise exploratória dos dados do Sistema de Informçãoes de Mortalidade do DATASUS, com foco na variação entre 2020 e 2021 das mortes de trânsito | [pabsantos](github.com/pabsantos) |
 | [**dados-ma-2023**](https://github.com/ONSV/dados-ma-2023) | Diagnóstico da segurança viária no período de existência do Movimento Maio Amarelo | [pabsantos](github.com/pabsantos) |
-| [**analise_renaest**](https://github.com/ONSV/analise_renaest) | Análise da disponibilidade de dados presentes no RENAEST. Métodos aplicados no relatório de pesquisa "Análise da complitude dos dados do RENAEST", ainda em desenvolvimento | [marcoaguibor](https://github.com/marcoaguibor/) |
 | [**modelo_preditivo_onsv**](https://onsv.github.io/modelo_preditivo_onsv/report/05_paper.html) | Modelo baseado em regressão linear multivariada para a previsão de mortes no trânsito | [jotasaraiva](https://github.com/jotasaraiva) e [pabsantos](github.com/pabsantos) |
 
 ---
@@ -64,7 +74,7 @@ O objetivo do estudo é apresentar a estimativa da taxa de mortes por quilômetr
 | <img src="https://raw.githubusercontent.com/pabsantos/onsvplot/main/man/figures/logo.png" align="center" height="120"/> | [**onsvplot**](https://pabsantos.github.io/onsvplot/): Carrega o tema do Observatório em gráficos do `ggplot2`. |
 | <img src="https://raw.githubusercontent.com/pabsantos/ndsbr/main/man/figures/README-ndsbr.png" align="center" height="120"/> | [**ndsbr**](https://github.com/ONSV/ndsbr): Pacote para carregar, processar e analisar os dados do NDS-BR. |
 | <img src="https://raw.githubusercontent.com/pabsantos/roadtrafficdeaths/main/man/figures/logo.png" align="center" height="120"/> | [**roadtrafficdeaths**](https://pabsantos.github.io/roadtrafficdeaths/): Carrega os dados de mortes ocorridas em sinistros de trânsito no Brasil. |
-
+| <img src="https://jotasaraiva.github.io/fleetbr/logo.png" align="center" height="120"/> | [**fleetbr**](https://github.com/jotasaraiva/fleetbr): Carrega os dados de frota veicular do Brasil. | 
 ---
 
 ## Outras ferramentas
