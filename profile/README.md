@@ -2,7 +2,7 @@
 
 Aqui estão organizados os repositórios dos projetos elaborados e/ou apoiados pelo Observatório.
 
-## Estudo Naturalístico de Direção Brasileiro <img src="http://www.tecnologia.ufpr.br/portal/ceppur/wp-content/uploads/sites/43/2021/08/LOGONDS_CORESCURO-768x363.png" align="right" height="150"/>
+## Estudo Naturalístico de Direção Brasileiro <img src="https://tecnologia.ufpr.br/ceppur/wp-content/uploads/sites/43/2021/08/LOGONDS_CORESCURO-768x363.png" align="right" height="150"/>
 
 O [Estudo Naturalístico de Direção Brasileiro (NDS-BR)](http://www.tecnologia.ufpr.br/portal/ceppur/estudo-naturalistico-de-direcao-brasileiro/) trata-se de uma iniciativa inédita no Brasil e tem por objetivo conhecer o comportamento dos condutores brasileiros a fim de orientar o planejamento de ações de segurança com foco sobre o fator humano e a engenharia viária.
 
