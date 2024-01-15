@@ -20,7 +20,7 @@ O [Estudo Naturalístico de Direção Brasileiro (NDS-BR)](http://www.tecnologia
 | Repositório | Descrição | Autoria |
 | --- | --- | --- |
 | [**dataset-obitos**](https://github.com/ONSV/dataset-obitos) | Criação de um dataset com as taxas de óbitos por 100 mil habitantes, para cada município brasileiro. | [pabsantos](github.com/pabsantos) |
-
+| [**prfdata**](https://github.com/ONSV/prfdata) | Coleta e processamento dos dados de sinistros e suas vítimas em rodovias federais brasileiras | [pabsantos](github.com/pabsantos) |
 ---
 
 ## Publicações
