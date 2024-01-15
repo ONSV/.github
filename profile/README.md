@@ -66,6 +66,7 @@ O objetivo do trabalho é apresentar uma análise preliminar dos dados disponibi
 | [**analise-datasus-2021**](https://github.com/ONSV/analise-datasus-2021) | Análise exploratória dos dados do Sistema de Informçãoes de Mortalidade do DATASUS, com foco na variação entre 2020 e 2021 das mortes de trânsito | [pabsantos](github.com/pabsantos) |
 | [**dados-ma-2023**](https://github.com/ONSV/dados-ma-2023) | Diagnóstico da segurança viária no período de existência do Movimento Maio Amarelo | [pabsantos](github.com/pabsantos) |
 | [**modelo_preditivo_onsv**](https://onsv.github.io/modelo_preditivo_onsv/report/05_paper.html) | Modelo baseado em regressão linear multivariada para a previsão de mortes no trânsito | [jotasaraiva](https://github.com/jotasaraiva) e [pabsantos](github.com/pabsantos) |
+| [**revisao-detrans**](https://github.com/ONSV/revisao-detrans) | Cálculo das métricas de avaliação para a qualidade dos serviços de informação dos Departamentos Estaduais de Trânsito (DETRAN) de cada unidade federativa brasileira | [jotasaraiva](https://github.com/jotasaraiva) e [pabsantos](github.com/pabsantos) |
 
 ---
 
