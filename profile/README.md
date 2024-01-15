@@ -21,6 +21,7 @@ O [Estudo Naturalístico de Direção Brasileiro (NDS-BR)](http://www.tecnologia
 | --- | --- | --- |
 | [**dataset-obitos**](https://github.com/ONSV/dataset-obitos) | Criação de um dataset com as taxas de óbitos por 100 mil habitantes, para cada município brasileiro. | [pabsantos](github.com/pabsantos) |
 | [**prfdata**](https://github.com/ONSV/prfdata) | Coleta e processamento dos dados de sinistros e suas vítimas em rodovias federais brasileiras | [pabsantos](github.com/pabsantos) |
+
 ---
 
 ## Publicações
@@ -76,6 +77,7 @@ O objetivo do trabalho é apresentar uma análise preliminar dos dados disponibi
 | <img src="https://raw.githubusercontent.com/pabsantos/ndsbr/main/man/figures/README-ndsbr.png" align="center" height="120"/> | [**ndsbr**](https://github.com/ONSV/ndsbr): Pacote para carregar, processar e analisar os dados do NDS-BR. |
 | <img src="https://raw.githubusercontent.com/pabsantos/roadtrafficdeaths/main/man/figures/logo.png" align="center" height="120"/> | [**roadtrafficdeaths**](https://pabsantos.github.io/roadtrafficdeaths/): Carrega os dados de mortes ocorridas em sinistros de trânsito no Brasil. |
 | <img src="https://jotasaraiva.github.io/fleetbr/logo.png" align="center" height="120"/> | [**fleetbr**](https://github.com/jotasaraiva/fleetbr): Carrega os dados de frota veicular do Brasil. | 
+
 ---
 
 ## Outras ferramentas
