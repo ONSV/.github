@@ -47,7 +47,7 @@ O objetivo do estudo é apresentar a estimativa da taxa de mortes por quilômetr
 </br>
 </br>
 
-### Análise da completude dos dados do Registro Nacional de Acidentes e Estatísticas de Trânsito (RENAEST) <img src="https://raw.githubusercontent.com/ONSV/analise_renaest/main/report/Capa.png" align="right" height="300"/>
+### Análise da completude dos dados do Registro Nacional de Acidentes e Estatísticas de Trânsito (RENAEST) <img height="300" alt="image" align="right" src="https://github.com/ONSV/.github/assets/68762181/28c575ed-df14-4120-b999-cdc3994edc05"/>
 
 O objetivo do trabalho é apresentar uma análise preliminar dos dados disponibilizados no RENAEST, levando em consideração a completude dos registros e as limitações das análises decorrentes. [Link de acesso ao material](https://www.onsv.org.br/estudos-pesquisas/estudo-renaest)
 
