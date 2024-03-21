@@ -68,6 +68,7 @@ O objetivo do trabalho é apresentar uma análise preliminar dos dados disponibi
 | [**revisao-detrans**](https://github.com/ONSV/revisao-detrans) | Cálculo das métricas de avaliação para a qualidade dos serviços de informação dos Departamentos Estaduais de Trânsito (DETRAN) de cada unidade federativa brasileira | [jotasaraiva](https://github.com/jotasaraiva) e [pabsantos](github.com/pabsantos) |
 | [**analise-datasus-2022**](https://github.com/ONSV/analise-datasus-2022) | Análise exploratória dos dados do Sistema de Informçãoes de Mortalidade do DATASUS, com foco na variação entre 2021 e 2022 das mortes de trânsito | [pabsantos](github.com/pabsantos) |
 | [**datasus-dashboard**](https://github.com/onsv/datasus-dashboard) | Dashboard com os dados de óbitos no trânsito | [jotasaraiva](https://github.com/jotasaraiva) e [pabsantos](github.com/pabsantos) |
+| [**analise-mulheres-transito**](https://github.com/ONSV/analise-mulheres-transito) | Conjunto de dados sobre a participação das mulheres no trânsito brasileiro, publicado no [site do Observatório](https://www.onsv.org.br/pdi/dados-sobre-mulheres-no-transito-brasileiro) | [pabsantos](github.com/pabsantos) e [jotasaraiva](https://github.com/jotasaraiva) | 
 
 ---
 
@@ -78,7 +79,9 @@ O objetivo do trabalho é apresentar uma análise preliminar dos dados disponibi
 | <img src="https://raw.githubusercontent.com/pabsantos/onsvplot/main/man/figures/logo.png" align="center" height="120"/> | [**onsvplot**](https://pabsantos.github.io/onsvplot/): Carrega o tema do Observatório em gráficos do `ggplot2`. |
 | <img src="https://raw.githubusercontent.com/pabsantos/ndsbr/main/man/figures/README-ndsbr.png" align="center" height="120"/> | [**ndsbr**](https://github.com/ONSV/ndsbr): Pacote para carregar, processar e analisar os dados do NDS-BR. |
 | <img src="https://raw.githubusercontent.com/pabsantos/roadtrafficdeaths/main/man/figures/logo.png" align="center" height="120"/> | [**roadtrafficdeaths**](https://pabsantos.github.io/roadtrafficdeaths/): Carrega os dados de mortes ocorridas em sinistros de trânsito no Brasil. |
-| <img src="https://jotasaraiva.github.io/fleetbr/logo.png" align="center" height="120"/> | [**fleetbr**](https://github.com/jotasaraiva/fleetbr): Carrega os dados de frota veicular do Brasil. | 
+| <img src="https://jotasaraiva.github.io/fleetbr/logo.png" align="center" height="120"/> | [**fleetbr**](https://github.com/jotasaraiva/fleetbr): Carrega os dados da frota de veículos do Brasil. | 
+| <img src="https://raw.githubusercontent.com/jotasaraiva/driversbr/main/man/figures/logo.png" align="center" height="120"/> | [**driversbr**](https://jotasaraiva.github.io/driversbr/): Carrega os dados da quantidade de condutores habilitados no Brasil. |
+
 
 ---
 
