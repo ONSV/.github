@@ -69,6 +69,7 @@ O objetivo do trabalho é apresentar uma análise preliminar dos dados disponibi
 | [**analise-datasus-2022**](https://github.com/ONSV/analise-datasus-2022) | Análise exploratória dos dados do Sistema de Informçãoes de Mortalidade do DATASUS, com foco na variação entre 2021 e 2022 das mortes de trânsito | [pabsantos](github.com/pabsantos) |
 | [**datasus-dashboard**](https://github.com/onsv/datasus-dashboard) | Dashboard com os dados de óbitos no trânsito | [jotasaraiva](https://github.com/jotasaraiva) e [pabsantos](github.com/pabsantos) |
 | [**analise-mulheres-transito**](https://github.com/ONSV/analise-mulheres-transito) | Conjunto de dados sobre a participação das mulheres no trânsito brasileiro, publicado no [site do Observatório](https://www.onsv.org.br/pdi/dados-sobre-mulheres-no-transito-brasileiro) | [pabsantos](github.com/pabsantos) e [jotasaraiva](https://github.com/jotasaraiva) | 
+| [**modelo_predivito_onsv**](https://github.com/ONSV/modelo_preditivo_onsv) | Modelo preditivo de óbitos no trânsito brasileiro | [jotasaraiva](https://github.com/jotasaraiva) e [pabsantos](github.com/pabsantos) | 
 
 ---
 
