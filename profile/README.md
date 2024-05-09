@@ -92,4 +92,5 @@ O objetivo do trabalho é apresentar uma análise preliminar dos dados disponibi
 | --- | --- |
 | [**onsvpub**](https://github.com/ONSV/onsvpub) | Template do [quarto markdown](https://quarto.org/) para documentos em html, pdf e docx, com a identidade visual e padrões de formatação do Observatório |
 | [**onsv-typst**](https://github.com/ONSV/onsv-typst) | Template do `typst` com a padronização do Observatório |
+| [**github-actions**](https://github.com/ONSV/github-actions) | (Automatiza a renderização e publicação de relatórios em html com base em Quarto Markdown | 
 
