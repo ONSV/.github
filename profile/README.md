@@ -28,7 +28,7 @@ O [Estudo Naturalístico de Direção Brasileiro (NDS-BR)](http://www.tecnologia
 
 ### O Plano Nacional de Redução de Mortes e Lesões no Trânsito: O Papel dos Municípios <img src="https://raw.githubusercontent.com/ONSV/.github/main/profile/Screenshot%20from%202023-11-20%2017-12-22.png" align="right" height="300"/>
 
-O livro tem como principal ponto de discussão o desafio da apropriação do conteúdo do PNATRANS por parte dos municípios brasileiros, principalmente no sentido da mobilização prática necessária para a transformação efetiva do cenário atual. [Link de acesso ao material](https://www.onsv.org.br/estudos-pesquisas/livro-pnatrans-o-papel-dos-municipios).
+O livro tem como principal ponto de discussão o desafio da apropriação do conteúdo do PNATRANS por parte dos municípios brasileiros, principalmente no sentido da mobilização prática necessária para a transformação efetiva do cenário atual. [Link de acesso ao material](https://www.onsv.org.br/pdi/livro-pnatrans-o-papel-dos-municipios).
 
 **Repositórios:**
 
@@ -39,7 +39,7 @@ O livro tem como principal ponto de discussão o desafio da apropriação do con
 
 O objetivo do estudo é apresentar a estimativa da taxa de mortes por quilômetro percorrido pela frota de veículos rodoviários no Brasil e em cada unidade da federação durante a 1ª Década Mundial de Ação pela Segurança Viária (2011-2020), assim, trazendo um diagnóstico atualizado e mais preciso acerca da evolução do desempenho da segurança viária no país. [Link de acesso ao material](https://www.onsv.org.br/estudos-pesquisas/estudo-taxa-de-mortes-por-bilhao-de-quilometros-percorridos).
 
-**Repositório:** [**rt-taxa-bilhao**](https://github.com/ONSV/rt-taxa-bilhao)
+**Repositório:** [**rt-taxa-bilhao**](https://www.onsv.org.br/pdi/estudo-taxa-de-mortes-por-bilhao-de-quilometros-percorridos)
 
 </br>
 </br>
@@ -49,7 +49,7 @@ O objetivo do estudo é apresentar a estimativa da taxa de mortes por quilômetr
 
 ### Análise da completude dos dados do Registro Nacional de Acidentes e Estatísticas de Trânsito (RENAEST) <img height="300" alt="image" align="right" src="https://github.com/ONSV/.github/assets/68762181/28c575ed-df14-4120-b999-cdc3994edc05"/>
 
-O objetivo do trabalho é apresentar uma análise preliminar dos dados disponibilizados no RENAEST, levando em consideração a completude dos registros e as limitações das análises decorrentes. [Link de acesso ao material](https://www.onsv.org.br/estudos-pesquisas/estudo-renaest)
+O objetivo do trabalho é apresentar uma análise preliminar dos dados disponibilizados no RENAEST, levando em consideração a completude dos registros e as limitações das análises decorrentes. [Link de acesso ao material](https://www.onsv.org.br/pdi/estudo-renaest)
 
 **Repositório:** [**analise_renaest**](https://github.com/ONSV/analise_renaest)
 
