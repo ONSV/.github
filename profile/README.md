@@ -82,6 +82,8 @@ O objetivo do trabalho é apresentar uma análise preliminar dos dados disponibi
 | <img src="https://raw.githubusercontent.com/pabsantos/roadtrafficdeaths/main/man/figures/logo.png" align="center" height="120"/> | [**roadtrafficdeaths**](https://pabsantos.github.io/roadtrafficdeaths/): Carrega os dados de mortes ocorridas em sinistros de trânsito no Brasil. |
 | <img src="https://jotasaraiva.github.io/fleetbr/logo.png" align="center" height="120"/> | [**fleetbr**](https://github.com/jotasaraiva/fleetbr): Carrega os dados da frota de veículos do Brasil. | 
 | <img src="https://raw.githubusercontent.com/jotasaraiva/driversbr/main/man/figures/logo.png" align="center" height="120"/> | [**driversbr**](https://jotasaraiva.github.io/driversbr/): Carrega os dados da quantidade de condutores habilitados no Brasil. |
+| <img src="https://onsv.github.io/onsvtables/logo.png" align="center" height="120"/>| [**onsvtables**](https://onsv.github.io/onsvtables/): Carrega o tema do Observatório em tabelas do `gt`. | 
+
 
 
 ---
