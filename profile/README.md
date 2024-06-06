@@ -37,9 +37,9 @@ O livro tem como principal ponto de discussão o desafio da apropriação do con
 
 ### <img src="https://raw.githubusercontent.com/ONSV/rt-taxa-bilhao/main/fig/capa.png" align="left" height="300"/> Taxa de Mortes por Bilhão de Quilômetros Percorridos
 
-O objetivo do estudo é apresentar a estimativa da taxa de mortes por quilômetro percorrido pela frota de veículos rodoviários no Brasil e em cada unidade da federação durante a 1ª Década Mundial de Ação pela Segurança Viária (2011-2020), assim, trazendo um diagnóstico atualizado e mais preciso acerca da evolução do desempenho da segurança viária no país. [Link de acesso ao material](https://www.onsv.org.br/estudos-pesquisas/estudo-taxa-de-mortes-por-bilhao-de-quilometros-percorridos).
+O objetivo do estudo é apresentar a estimativa da taxa de mortes por quilômetro percorrido pela frota de veículos rodoviários no Brasil e em cada unidade da federação durante a 1ª Década Mundial de Ação pela Segurança Viária (2011-2020), assim, trazendo um diagnóstico atualizado e mais preciso acerca da evolução do desempenho da segurança viária no país. [Link de acesso ao material](https://www.onsv.org.br/pdi/estudo-taxa-de-mortes-por-bilhao-de-quilometros-percorridos).
 
-**Repositório:** [**rt-taxa-bilhao**](https://www.onsv.org.br/pdi/estudo-taxa-de-mortes-por-bilhao-de-quilometros-percorridos)
+**Repositório:** [**rt-taxa-bilhao**](https://github.com/onsv/rt-taxa-bilhao)
 
 </br>
 </br>
