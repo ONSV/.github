@@ -35,12 +35,12 @@ O livro tem como principal ponto de discussão o desafio da apropriação do con
 - [**onsv_diagmunicipios**](https://github.com/ONSV/onsv_diagmunicipios/): Diagnóstico da segurança viária nos municípios brasileiros, utilizado no livro e no artigo ["Estabelecimento de metas de redução de mortes no trânsito nos municípios brasileiros"](https://www.revistatransportes.org.br/anpet/article/view/2704).
 - [**meta_reducao**](https://github.com/ONSV/meta_reducao): Calcula as metas de redução de mortes no trânsito dos municípios brasileiros, utilizadas no livro e no artigo ["Estabelecimento de metas de redução de mortes no trânsito nos municípios brasileiros"](https://www.revistatransportes.org.br/anpet/article/view/2704).
 
-### <img src="https://raw.githubusercontent.com/ONSV/rt-taxa-bilhao/main/fig/capa.png" align="left" height="300"/> Taxa de Mortes por Bilhão de Quilômetros Percorridos
+<!-- ### <img src="https://raw.githubusercontent.com/ONSV/rt-taxa-bilhao/main/fig/capa.png" align="left" height="300"/> Taxa de Mortes por Bilhão de Quilômetros Percorridos
 
 O objetivo do estudo é apresentar a estimativa da taxa de mortes por quilômetro percorrido pela frota de veículos rodoviários no Brasil e em cada unidade da federação durante a 1ª Década Mundial de Ação pela Segurança Viária (2011-2020), assim, trazendo um diagnóstico atualizado e mais preciso acerca da evolução do desempenho da segurança viária no país. [Link de acesso ao material](https://www.onsv.org.br/pdi/estudo-taxa-de-mortes-por-bilhao-de-quilometros-percorridos).
 
 **Repositório:** [**rt-taxa-bilhao**](https://github.com/onsv/rt-taxa-bilhao)
-
+-->
 </br>
 </br>
 </br>
